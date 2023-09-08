@@ -5,7 +5,13 @@ Modified image classification architectures are used with multihead output to pr
 
 The model is being trained as binary classified, then converted to a 2-output model in which one output is for classification score, the other for CAM explainability.
 
-Check the article for more details. 
+The following CAM explainability map (used for segmentation) can be generatated using this approach:
+
+| BSD | Oliena| PCB |
+| --- | --- | --- | 
+| <img src="https://github.com/rytisss/DL-defect-classification-with-CAM-output/blob/main/res/BSD_efficientNetB04down_716ms.gif" width="300"/> | <img src="https://github.com/rytisss/DL-defect-classification-with-CAM-output/blob/main/res/oliena_convext4down_716ms.gif" width="300"/> | <img src="https://github.com/rytisss/DL-defect-classification-with-CAM-output/blob/main/res/PCB_efficientNetB04down_716ms.gif" width="300"/> |
+
+Check the article for more details!
 
 # Launch
 
