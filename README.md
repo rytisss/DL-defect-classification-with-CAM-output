@@ -1,13 +1,17 @@
 # Defects localization in images using deep learning-based classification with CAM output
-This repository include code models used IDAACS'2023 conference article **'Defects localization in images using deep learning-based classification with CAM output'** by Rytis Augustauskas, Lukas Zabulis, Arūnas Lipnickas, Simas Jokubauskas.
+This repository includes code models used in IDAACS'2023 conference article *'Defects localization in images using deep learning-based classification with CAM output'* by **Rytis Augustauskas**, **Lukas Zabulis**, **Arūnas Lipnickas**, **Simas Jokubauskas**.
 
-Modified image classficication architectures are used for with multihead output to predict and roughly segment image without pixel-wise annotation.
+Modified image classification architectures are used with multihead output to predict and roughly segment images without pixel-wise annotation. It is making predictions in a single iteration.
 
-Check article for more details. 
+The model is being trained as binary classified, then converted to a 2-output model in which one output is for classification score, the other for CAM explainability.
+
+Check the article for more details. 
 
 # Launch
 
-1. Install requirements (Tensorflow 2.12, OpenCV 4.7.0.72, Matplotlib 3.7.1). Use the following command:  
+1. Install requirements (**Tensorflow 2.12**, **OpenCV 4.7.0.72**, **Matplotlib 3.7.1**). Optionally, use the following command:  
 ```
 pip install -r requirements.txt
 ```
+
+2. Check the Jupyter Notebook for training, model conversion and inference routines.
