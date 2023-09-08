@@ -8,10 +8,10 @@ The model is being trained as binary classified, then converted to a 2-output mo
 The following CAM explainability map (used for segmentation) can be generatated using this approach:
 
 | Dataset | CAM visualization |
-| --- | --- |
-| BSD | <img src="https://github.com/rytisss/DL-defect-classification-with-CAM-output/blob/main/res/BSD_efficientNetB04down_716ms.gif" width="500"/> |
-| Oliena| <img src="https://github.com/rytisss/DL-defect-classification-with-CAM-output/blob/main/res/oliena_convext4down_716ms.gif" width="500"/> |
-| PCB |<img src="https://github.com/rytisss/DL-defect-classification-with-CAM-output/blob/main/res/PCB_efficientNetB04down_716ms.gif" width="500"/> |
+| :---: | :---: |
+| BSD | <img src="https://github.com/rytisss/DL-defect-classification-with-CAM-output/blob/main/res/BSD_efficientNetB04down_716ms.gif" width="400"/> |
+| Oliena| <img src="https://github.com/rytisss/DL-defect-classification-with-CAM-output/blob/main/res/oliena_convext4down_716ms.gif" width="400"/> |
+| PCB |<img src="https://github.com/rytisss/DL-defect-classification-with-CAM-output/blob/main/res/PCB_efficientNetB04down_716ms.gif" width="400"/> |
 
 Check the article for more details!
 
