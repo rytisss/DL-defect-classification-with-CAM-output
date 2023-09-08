@@ -9,9 +9,9 @@ Check the article for more details.
 
 # Launch
 
-1. Install requirements (**Tensorflow 2.12**, **OpenCV 4.7.0.72**, **Matplotlib 3.7.1**). Optionally, use the following command:  
+1. Install requirements (**Tensorflow 2.12**, **OpenCV 4.7.0.72**, **Matplotlib 3.7.1**, **Albumentations 1.3.0**). Optionally, use the following command:  
 ```
 pip install -r requirements.txt
 ```
 
-2. Check the Jupyter Notebook for training, model conversion and inference routines.
+2. Check the [provided Jupyter Notebook](https://github.com/rytisss/DL-defect-classification-with-CAM-output/blob/main/CAM%20classifiers.ipynb) for training, model conversion and inference routines. *Better description upcoming after conference*
