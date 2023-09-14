@@ -1,11 +1,11 @@
 # Defects localization in images using deep learning-based classification with CAM output
-This repository includes code models used in IDAACS'2023 conference article *'Defects localization in images using deep learning-based classification with CAM output'* by **Rytis Augustauskas**, **Lukas Zabulis**, **Arūnas Lipnickas**, **Simas Jokubauskas**.
+This repository includes code models used in [IDAACS'2023](https://www.idaacs.net/2023) conference article *'Defects localization in images using deep learning-based classification with CAM output'* by **Rytis Augustauskas**, **Lukas Zabulis**, **Arūnas Lipnickas**, **Simas Jokubauskas**. *Proceeding is being processed...*
 
 Modified image classification architectures are used with multihead output to predict and roughly segment images without pixel-wise annotation. It is making predictions in a single iteration.
 
-The model is being trained as binary classified, then converted to a 2-output model in which one output is for classification score, the other for CAM explainability.
+The model is trained as binary classified, then converted to a 2-output model in which one output is for classification score, the other for CAM explainability.
 
-The following CAM explainability map (used for segmentation) can be generatated using this approach:
+The following CAM explainability map (used for segmentation) can be generated using this approach:
 
 | Dataset | CAM visualization |
 | :---: | :---: |
@@ -22,7 +22,7 @@ Check the article for more details!
 pip install -r requirements.txt
 ```
 
-2. Check the [provided Jupyter Notebook](https://github.com/rytisss/DL-defect-classification-with-CAM-output/blob/main/CAM%20classifiers.ipynb) for training, model conversion, inference and plotting routines. At the end of the sample some of the images trained (overfit) on sample data [(Oliena)](https://doi.org/10.1016/j.eswa.2022.116710) will be rendered:
+2. Check the [provided Jupyter Notebook](https://github.com/rytisss/DL-defect-classification-with-CAM-output/blob/main/CAM%20classifiers.ipynb) for training, model conversion, inference and plotting routines. At the end of the sample some of the training (overfit) on sample data [(Oliena)](https://doi.org/10.1016/j.eswa.2022.116710), some images will be rendered:
 
 | Image | Image+defectCAM |
 | :---: | :---: |
