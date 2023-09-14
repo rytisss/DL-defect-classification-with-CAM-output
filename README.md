@@ -22,4 +22,9 @@ Check the article for more details!
 pip install -r requirements.txt
 ```
 
-2. Check the [provided Jupyter Notebook](https://github.com/rytisss/DL-defect-classification-with-CAM-output/blob/main/CAM%20classifiers.ipynb) for training, model conversion and inference routines. *Better description upcoming after conference*
+2. Check the [provided Jupyter Notebook](https://github.com/rytisss/DL-defect-classification-with-CAM-output/blob/main/CAM%20classifiers.ipynb) for training, model conversion, inference and plotting routines. At the end of the sample some of the images trained (overfit) on sample data [(Oliena)](https://doi.org/10.1016/j.eswa.2022.116710) will be rendered:
+
+| Image | Image+defectCAM |
+| :---: | :---: |
+| <img src="https://github.com/rytisss/DL-defect-classification-with-CAM-output/blob/main/res/example_results/4_anomaly_rgb.png" width="300"/> | <img src="https://github.com/rytisss/DL-defect-classification-with-CAM-output/blob/main/res/example_results/4_anomaly_defectCAM_superpos.png" width="300"/> |
+| <img src="https://github.com/rytisss/DL-defect-classification-with-CAM-output/blob/main/res/example_results/6_anomaly_rgb.png" width="300"/>| <img src="https://github.com/rytisss/DL-defect-classification-with-CAM-output/blob/main/res/example_results/6_anomaly_defectCAM_superpos.png" width="300"/> |
