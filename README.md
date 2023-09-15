@@ -35,5 +35,5 @@ Research sponsored and conference expenses are covered by [Agmis](https://agmis.
 
 # Citing
 *Conference proceeding is being processed...*  
-The article (*'Defects localization in images using deep learning-based classification with CAM output'* by [**Rytis Augustauskas**](https://www.linkedin.com/in/rytis-augustauskas-4b99a791/), [**Lukas Zabulis**](linkedin.com/in/lukaszabulis), [**Arūnas Lipnickas**](linkedin.com/in/arunas-lipnickas-888037155), [**Simas Jokubauskas**](linkedin.com/in/simasjokubauskas)) was presented at the 12th IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications, in Dortmund, Germany on September 7-9t, 2023  
+The article (*'Defects localization in images using deep learning-based classification with CAM output'* by [**Rytis Augustauskas**](https://www.linkedin.com/in/rytis-augustauskas-4b99a791/), [**Lukas Zabulis**](linkedin.com/in/lukaszabulis), [**Arūnas Lipnickas**](linkedin.com/in/arunas-lipnickas-888037155), [**Simas Jokubauskas**](linkedin.com/in/simasjokubauskas)) was presented at the 12th IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications, in Dortmund, Germany on September 7-9th, 2023  
 
