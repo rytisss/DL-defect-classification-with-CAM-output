@@ -9,9 +9,9 @@ The following CAM explainability map (used for segmentation) can be generated us
 
 | Dataset | CAM visualization |
 | :---: | :---: |
-| BSD | <img src="https://github.com/rytisss/DL-defect-classification-with-CAM-output/blob/main/res/BSD_efficientNetB04down_716ms.gif" width="400"/> |
-| Oliena| <img src="https://github.com/rytisss/DL-defect-classification-with-CAM-output/blob/main/res/oliena_convext4down_716ms.gif" width="400"/> |
-| PCB |<img src="https://github.com/rytisss/DL-defect-classification-with-CAM-output/blob/main/res/PCB_efficientNetB04down_716ms.gif" width="400"/> |
+| BSD | <img src="https://github.com/rytisss/DL-defect-classification-with-CAM-output/blob/main/res/BSD_efficientNetB04down_716ms.gif" width="500"/> |
+| Oliena| <img src="https://github.com/rytisss/DL-defect-classification-with-CAM-output/blob/main/res/oliena_convext4down_716ms.gif" width="500"/> |
+| PCB |<img src="https://github.com/rytisss/DL-defect-classification-with-CAM-output/blob/main/res/PCB_efficientNetB04down_716ms.gif" width="500"/> |
 
 Check the article for more details!
 
@@ -26,8 +26,8 @@ pip install -r requirements.txt
 
 | Image | Image+defectCAM |
 | :---: | :---: |
-| <img src="https://github.com/rytisss/DL-defect-classification-with-CAM-output/blob/main/res/example_results/4_anomaly_rgb.png" width="300"/> | <img src="https://github.com/rytisss/DL-defect-classification-with-CAM-output/blob/main/res/example_results/4_anomaly_defectCAM_superpos.png" width="300"/> |
-| <img src="https://github.com/rytisss/DL-defect-classification-with-CAM-output/blob/main/res/example_results/6_anomaly_rgb.png" width="300"/>| <img src="https://github.com/rytisss/DL-defect-classification-with-CAM-output/blob/main/res/example_results/6_anomaly_defectCAM_superpos.png" width="300"/> |  
+| <img src="https://github.com/rytisss/DL-defect-classification-with-CAM-output/blob/main/res/example_results/4_anomaly_rgb.png" width="350"/> | <img src="https://github.com/rytisss/DL-defect-classification-with-CAM-output/blob/main/res/example_results/4_anomaly_defectCAM_superpos.png" width="350"/> |
+| <img src="https://github.com/rytisss/DL-defect-classification-with-CAM-output/blob/main/res/example_results/6_anomaly_rgb.png" width="350"/>| <img src="https://github.com/rytisss/DL-defect-classification-with-CAM-output/blob/main/res/example_results/6_anomaly_defectCAM_superpos.png" width="350"/> |  
 
 # Aknowledgement  
 Research and conference expenses are sponsored by [Agmis](https://agmis.com/)
