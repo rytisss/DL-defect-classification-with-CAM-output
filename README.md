@@ -30,4 +30,4 @@ pip install -r requirements.txt
 | <img src="https://github.com/rytisss/DL-defect-classification-with-CAM-output/blob/main/res/example_results/6_anomaly_rgb.png" width="350"/>| <img src="https://github.com/rytisss/DL-defect-classification-with-CAM-output/blob/main/res/example_results/6_anomaly_defectCAM_superpos.png" width="350"/> |  
 
 # Aknowledgement  
-Research and conference expenses are sponsored by [Agmis](https://agmis.com/)
+Research sponsored and conference expenses are covered by [Agmis](https://agmis.com/)
