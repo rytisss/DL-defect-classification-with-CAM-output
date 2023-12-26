@@ -1,5 +1,5 @@
 # Defects localization in images using deep learning-based classification with CAM output
-This repository includes code models used in [IDAACS'2023](https://www.idaacs.net/2023) conference article *'Defects localization in images using deep learning-based classification with CAM output'* by [**Rytis Augustauskas**](https://www.linkedin.com/in/rytis-augustauskas-4b99a791/), [**Lukas Zabulis**](linkedin.com/in/lukaszabulis), [**Arūnas Lipnickas**](linkedin.com/in/arunas-lipnickas-888037155), [**Simas Jokubauskas**](linkedin.com/in/simasjokubauskas). *Conference proceeding is being processed...*
+This repository includes code models used in [IDAACS'2023](https://www.idaacs.net/2023) conference article [*'Defects localization in images using deep learning-based classification with CAM output'*](https://ieeexplore.ieee.org/abstract/document/10348813) by [**Rytis Augustauskas**](https://www.linkedin.com/in/rytis-augustauskas-4b99a791/), [**Lukas Zabulis**](linkedin.com/in/lukaszabulis), [**Arūnas Lipnickas**](linkedin.com/in/arunas-lipnickas-888037155), [**Simas Jokubauskas**](linkedin.com/in/simasjokubauskas)
 
 Modified image classification architectures are used with multihead output to predict and roughly segment images without pixel-wise annotation. It is making predictions in a single iteration.
 
@@ -34,6 +34,16 @@ pip install -r requirements.txt
 Research sponsored and conference expenses are covered by [Agmis](https://agmis.com/)
 
 # Citing
-*Conference proceeding is being processed...*  
-The article (*'Defects localization in images using deep learning-based classification with CAM output'* by [**Rytis Augustauskas**](https://www.linkedin.com/in/rytis-augustauskas-4b99a791/), [**Lukas Zabulis**](linkedin.com/in/lukaszabulis), [**Arūnas Lipnickas**](linkedin.com/in/arunas-lipnickas-888037155), [**Simas Jokubauskas**](linkedin.com/in/simasjokubauskas)) was presented at the [12th IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications](https://www.idaacs.net/2023), in Dortmund, Germany on September 7-9th, 2023  
+```
+@INPROCEEDINGS{10348813,
+  author={Augustauskas, Rytis and Zabulis, Lukas and Lipnickas, Arūnas and Jokubauskas, Simas},
+  booktitle={2023 IEEE 12th International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications (IDAACS)}, 
+  title={Defects Localization in Images Using Deep Learning-Based Classification with CAM Output}, 
+  year={2023},
+  volume={1},
+  number={},
+  pages={487-492},
+  doi={10.1109/IDAACS58523.2023.10348813}}
+```
+The article ([*'Defects localization in images using deep learning-based classification with CAM output'*](https://ieeexplore.ieee.org/abstract/document/10348813) by [**Rytis Augustauskas**](https://www.linkedin.com/in/rytis-augustauskas-4b99a791/), [**Lukas Zabulis**](linkedin.com/in/lukaszabulis), [**Arūnas Lipnickas**](linkedin.com/in/arunas-lipnickas-888037155), [**Simas Jokubauskas**](linkedin.com/in/simasjokubauskas)) was presented at the [12th IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications](https://www.idaacs.net/2023), in Dortmund, Germany on September 7-9th, 2023  
 
